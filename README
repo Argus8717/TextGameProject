@@ -1,14 +1,18 @@
 Overview:
+The Mystery of Finch Manor is a Text Based Adventure Game, that follows you,
+the player, as you explore your old friends manor. You will uncover clues, solve puzzles,
+and explore the secrets your dear old friend had to hide...
 
-Team members: 
+Team members:
 Cody Lincoln
-Benjamin Hall 
+Benjamin Hall
 Ryne Gall
-External Libaries: 
+
+External Libraries:
 OS,SYS,Time,Threading,and JSON
-Use:
--Installation:
-Install the folder 
--Use:
- [Overview}
-[Step by step]
+Install any needed
+
+How to Run our project:
+1: Make sure you have a program installed to run Python.
+2: Open or copy this file into your Program.
+3: Run the Program, and further instructions should display.
