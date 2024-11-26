@@ -9,7 +9,7 @@ import json
 #Main Game Functions to track player decisions
 #Ben & Ryne
 class Gameloop:
-    def __init__(self, script_name="MysteryofFinchManor.py"):
+    def __init__(self, script_name="GameV1.7.py"):
         self.script_name = script_name
         #Tracking visible to player
         self.currentRoom = ""
