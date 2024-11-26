@@ -14,11 +14,22 @@ Install any needed
 
 How to Run our project:
 1: Make sure you have a program installed to run Python.
-2: Open or copy this file into your Program.
-3: Run the Program, and further instructions should display.
+2: Download the .zip
+3: Launch the .py in a viable system(May change to .exe)
+4: Run
+
+Features:
+-Chase sequence
+-User based outcomes
+-User Interactions
+-Save/Load file
+-Inventory tracking
+
+Dependencies:
+-Having pycharm installed on computer(Until .exe established)
 
 Note:
-The final version of the code, (TheMysteryofFinchManor.py,) contains most comments and detailing
+The final version of the code, (MysteryofFinchManor.py,) contains most comments and detailing
 of who did what work. It can be said with certainty that the project was equal in effort, and we
 all did an equal amount of code. It may seem that one person did less code in one area, but each of
 us had parts of advanced code that took more time to write, therefore balancing out the workload.
