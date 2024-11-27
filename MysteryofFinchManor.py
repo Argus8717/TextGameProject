@@ -13,7 +13,7 @@ class Gameloop:
         # Tracking visible to player
         self.currentRoom = ""
         self.roomsEntered = []
-        self.inventory = ["Silver Key", "Knife"]
+        self.inventory = []
         # Hidden tracking
         self.roomEntryCounts = {'Trophy Room': 0, 'Long Hallway': 0, 'Mystery Room': 0}
         self.interactions = []
