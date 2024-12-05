@@ -382,7 +382,9 @@ def timed_game_decisions(timer, stage=1):
         elif stage == 8:
             stage = 9
         elif stage == 9:
-            stage = 10  # one ending here
+            stage = 10  #ending here
+        elif stage == 10:
+            continue 
         else:
             break
 
